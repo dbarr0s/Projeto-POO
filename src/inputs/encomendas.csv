@@ -1,0 +1,4 @@
+codVendedor;codCliente;estado;dimensao;data_enc;nome_transportadora
+U000002;U000001;1;1;2023-04-03;nhl
+U000002;U000003;0;1;2023-03-27;ukz
+U000003;U000004;1;3;2023-04-26;zpp

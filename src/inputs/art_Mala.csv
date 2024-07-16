@@ -1,0 +1,8 @@
+cod_user;cod_art;usado;estado;donos;descricao;marca;ano;dimensao;material;lancamento;preco;desconto;isPremium;estadocompra
+U000002;M000000002;0;0.8;1;Ainda em bom estado;Adidas;2020;20;1;2020-10-25;25;30;true;2
+U000003;M000000003;0;0.4;3;Continua em boa condição para uso;Zara;2019;2;0;2019-02-27;12;20;false;1
+U000004;M000000003;0;0.4;3;Continua em boa condição para uso;Zara;2019;2;0;2019-02-27;12;20;false;0
+U000005;M000000004;1;1;0;Mala nova;Gucci;2023;5;1;2023-05-08;5000;30;true;2
+U000005;M000000005;0;0.6;5;Já passou por muitas mãos;Pull&Bear;2016;7;0;2016-07-12;7;40;false;0
+U000006;M000000005;0;0.6;5;Já passou por muitas mãos;Pull&Bear;2016;7;0;2016-07-12;7;40;false;1
+U000007;M000000006;0;0.8;1;Apesar de ser usado, em bom estado;Malas&Malas;2021;40;1;2021-12-07;350;50;false;2

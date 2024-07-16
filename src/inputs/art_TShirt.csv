@@ -1,0 +1,7 @@
+cod_user;cod_art;usado;estado;donos;descricao;marca;tamanho;padrao;preco;desconto;isPremium;estadocompra
+U000001;T000000010;0;0.6;2;T-shirt de Verão;Primark;L;LISA;12;5;false;1
+U000001;T000000011;1;1;0;Camisola desportiva;Nike;M;RISCAS;30;15;true;2
+U000002;T000000012;0;0.4;3;Camisola de coleção;Levis;L;PALMEIRAS;50;17;true;0
+U000003;T000000010;0;0.6;2;T-shirt de Verão;Primark;L;LISA;12;5;false;0
+U000003;T000000013;0;0.8;4;Com algum uso;C&A;S;RISCAS;19;20;false;2
+U000006;T000000012;0;0.4;3;Camisola de coleção;Levis;L;PALMEIRAS;50;17;true;1

@@ -1,0 +1,7 @@
+cod_user;cod_art;usado;estado;donos;descricao;marca;tamanho;atacadores;cor;lancamento;preco;desconto;isPremium;estadocompra
+U000001;S000000001;1;1;0;Completamente novos;Nike;41;true;branca;2023-05-09;150;15;true;1
+U000001;S000000007;0;0.6;4;Um pouco desgastadas nas solas;Vans;43;true;verde;2018-09-26;50;30;false;0
+U000002;S000000008;0;0.2;10;Vintage, de coleção;Jordans;44;true;vermelha e preta;1999-05-10;250;22;true;1
+U000002;S000000009;0;0.8;2;Mal foram usados;Adidas;35;false;laranja;2019-04-01;40;0;false;2
+U000005;S000000007;0;0.6;4;Um pouco desgastadas nas solas;Vans;43;true;verde;2018-09-26;50;30;false;1
+U000007;S000000008;0;0.2;10;Vintage, de coleção;Jordans;44;true;vermelha e preta;1999-05-10;250;22;true;0
